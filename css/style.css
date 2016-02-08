@@ -1,0 +1,22 @@
+h3{
+	text-align: center;
+	}
+.center {
+	height:150px; 
+	width:170px; 
+	display:block; 
+	margin: 0 auto;
+}
+body{
+	background:gainsboro;
+	}
+div {
+    position:absolute; 
+	margin-bottom: 50px; 
+	padding:40px;
+    width:370px; 
+	height:550px; 
+	left:35%;  
+	background:white; 
+	border:1px solid gray; 
+	}	
